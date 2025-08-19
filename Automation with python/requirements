@@ -1,0 +1,3 @@
+Python 3.8+ (recommended)
+pandas → for reading Excel, processing data, and calculations
+openpyxl → for Excel file reading/writing and applying styles (color coding, borders)
